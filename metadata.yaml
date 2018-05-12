@@ -1,0 +1,43 @@
+_repo: Myths-That-Every-Child-Should-KnowA-Selection-Of-The-Classic-Myths-Of-All-Times-For-Young-Peo__16537
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Ostertag, Blanche
+    gutenberg_agent_id: '6778'
+    url: http://www.gutenberg.org/2009/agents/6778
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Mabie, Hamilton Wright
+    alias: Mabie, Hamilton W. (Hamilton Wright)
+    birthdate: 1846
+    deathdate: 1916
+    gutenberg_agent_id: '1421'
+    url: http://www.gutenberg.org/2009/agents/1421
+    wikipedia: http://en.wikipedia.org/wiki/Hamilton_Wright_Mabie
+description: ''
+gutenberg_bookshelf:
+- Children's Anthologies
+- Children's Myths, Fairy Tales, etc.
+gutenberg_issued: '2005-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16537'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mythology -- Juvenile literature'
+- !lcc 'PZ'
+tableOfContents: The three golden apples -- The pomegranate seeds -- The Chimaera
+  -- The Golden Touch -- The Gorgon's head -- The dragon's teeth -- The miraculous
+  pitcher -- The paradise of children -- The Cyclops -- The Argonauts -- The giant
+  builder -- How Odin lost his eye -- The quest of the hammer -- The Apples of Idun
+  -- The death of Balder -- The star and the lily.
+title: 'Myths That Every Child Should Know
+
+  A Selection Of The Classic Myths Of All Times For Young People'
+url: http://www.gutenberg.org/ebooks/16537

@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1421
     wikipedia: http://en.wikipedia.org/wiki/Hamilton_Wright_Mabie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16537#Myths-That-Every-Child-Should-KnowA-Selection-Of-The-Classic-Myths-Of-All-Times-For-Young-Peo_
 gutenberg_bookshelf:
 - Children's Anthologies
 - Children's Myths, Fairy Tales, etc.
